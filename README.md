@@ -1,4 +1,4 @@
-# ImagePicker
+# PicturePicker
 Android自定义相册，完全仿微信UI，实现了拍照、图片选择（单选/多选）、 裁剪 、旋转、等功能。
 
 ### 由于个人时间有限，该项目维护周期可能会长
@@ -167,7 +167,7 @@ V 0.3.5
 
 ## Licenses
 ```
- Copyright 2016 jeasonlzy(廖子尧)
+ Copyright 2018 small-DarkHorse(王振凯)
 
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
