@@ -31,8 +31,8 @@ import java.util.ArrayList;
  *
  * 但还是会出现明显的重新加载图片，可能是picasso图片加载框架的问题
  *
- * Author: nanchen
- * Email: liushilin520@foxmail.com
+ * Author: wangzhenkai
+ * Email: 2945424510@qq.com
  * Date: 2017-04-05  10:04
  */
 
