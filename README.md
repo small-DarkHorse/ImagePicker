@@ -19,7 +19,7 @@ Android自定义相册，完全仿微信UI，实现了拍照、图片选择（�
 
 使用前，对于Android Studio的用户，可以选择添加:
 ```java
-	compile 'com.lzy.widget:imagepicker:0.6.1'  //指定版本
+	 implementation 'com.github.small-DarkHorse:PicturePicker:1.0.0'  //指定版本
 ```
 
 ## 2.功能和参数含义
@@ -121,13 +121,13 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 ```
 
 ## 更新日志
-
+ 
 V 0.6.1
- * [合并] [优化图片选择页UI， 适配预览页的横竖屏切换 #195](https://github.com/jeasonlzy/ImagePicker/pull/195)
+ * [合并] [优化图片选择页UI， 适配预览页的横竖屏切换 #195](https://github.com/small-DarkHorse/PicturePicker)
 
 V 0.6.0
- * [合并] [调整UI,真正的完全仿微信](https://github.com/jeasonlzy/ImagePicker/pull/193)
- * [合并] [fix(location): 解决不合法图片导致的Bug](https://github.com/jeasonlzy/ImagePicker/pull/188)
+ * [合并] [调整UI,真正的完全仿微信](https://github.com/small-DarkHorse/PicturePicker/193)
+ * [合并] [fix(location): 解决不合法图片导致的Bug](https://github.com/small-DarkHorse/PicturePicker/pull/188)
 
 V 0.5.5
  * [修复]选择图页面进入预览取消选择或者选择后返回列表不更新的问题；
