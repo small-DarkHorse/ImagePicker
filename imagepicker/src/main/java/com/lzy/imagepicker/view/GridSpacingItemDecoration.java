@@ -5,7 +5,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
 /**
- * author : zchu
+ * author : wangzhenkai
  * date   : 2017/8/30
  * desc   : 为Recyclerview 的GridLayoutManager添加列间距
  */
